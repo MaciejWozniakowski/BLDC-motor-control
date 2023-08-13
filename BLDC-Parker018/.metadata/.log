@@ -1,0 +1,76 @@
+!SESSION 2013-07-16 19:15:43.609 -----------------------------------------------
+eclipse.buildId=I20120608-1200
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pl_PL
+Framework arguments:  -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product -data E:\Dokumenty\CCS_TI\LDE_szafa2 -product com.ti.ccstudio.branding.product
+
+!ENTRY org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE Warnings while parsing the viewer contributions from the 'org.eclipse.ui.popupMenus' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.ui.actions.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.ui.actions.asm.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='AUTOGEN:::org.eclipse.cdt.dsf.debug.ui.disassemblyRulerActions/org.eclipse.debug.ui.actions.RulerAddBreakpointAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:15:45.869
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='org.eclipse.cdt.dsf.debug.ui.disassembly.commands.rulerToggleBreakpoint'
+
+!ENTRY com.ti.gde.adapter.c6flo 1 0 2013-07-16 19:15:58.779
+!MESSAGE install directory: C:\ti\ccsv5\eclipse
+
+!ENTRY com.ti.gde.adapter.c6flo 1 0 2013-07-16 19:15:58.779
+!MESSAGE blocksDirectory directory: C:\ti\ccsv5\ccs_base\c6flo_1.0.0.201209281235\Blocks
+
+!ENTRY com.ti.gde.adapter.c6flo 1 0 2013-07-16 19:15:58.779
+!MESSAGE xdcToolLocation directory: C:/ti/xdctools_3_24_05_48
+
+!ENTRY com.ti.gde.diagram 1 0 2013-07-16 19:15:58.779
+!MESSAGE GDE adapter found: com.ti.gde.adapter.c6flo.C6floAdapter   Supporting extensions: [c6flo] PluginID=com.ti.gde.adapter.c6flo
+!SESSION 2013-07-16 19:16:43.651 -----------------------------------------------
+eclipse.buildId=I20120608-1200
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pl_PL
+Framework arguments:  -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product -data E:\Dokumenty\CCS_TI\LDE_szafa2 -product com.ti.ccstudio.branding.product
+
+!ENTRY org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE Warnings while parsing the viewer contributions from the 'org.eclipse.ui.popupMenus' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.ui.actions.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.ui.actions.asm.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='AUTOGEN:::org.eclipse.cdt.dsf.debug.ui.disassemblyRulerActions/org.eclipse.debug.ui.actions.RulerAddBreakpointAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2013-07-16 19:16:45.191
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='org.eclipse.cdt.dsf.debug.ui.disassembly.commands.rulerToggleBreakpoint'
+
+!ENTRY com.ti.gde.adapter.c6flo 1 0 2013-07-16 19:16:51.511
+!MESSAGE install directory: C:\ti\ccsv5\eclipse
+
+!ENTRY com.ti.gde.adapter.c6flo 1 0 2013-07-16 19:16:51.511
+!MESSAGE blocksDirectory directory: C:\ti\ccsv5\ccs_base\c6flo_1.0.0.201209281235\Blocks
+
+!ENTRY com.ti.gde.adapter.c6flo 1 0 2013-07-16 19:16:51.521
+!MESSAGE xdcToolLocation directory: C:/ti/xdctools_3_24_05_48
+
+!ENTRY com.ti.gde.diagram 1 0 2013-07-16 19:16:51.521
+!MESSAGE GDE adapter found: com.ti.gde.adapter.c6flo.C6floAdapter   Supporting extensions: [c6flo] PluginID=com.ti.gde.adapter.c6flo
